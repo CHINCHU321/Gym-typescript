@@ -23,7 +23,9 @@ Prettier Tailwind Css Sorting: https://tailwindcss.com/blog/automati...
 Hero Icons: https://heroicons.com/
 
 Framer Motion: https://www.framer.com/docs/introduct...
+
 Form Submit: https://formsubmit.co/
+
 React Anchor Link smooth Scroll: https://github.com/mauricevancooten/r...
 
 
