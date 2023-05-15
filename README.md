@@ -1,7 +1,7 @@
 # Gym-typescript
 Typescript React Fitness Application
 
-## [HEXAGYM website link](https://deft-quokka-8fe69c.netlify.app/)
+## [HEXAGYM website link](https://6461c9f4db1c45120e9b7c28--deft-quokka-8fe69c.netlify.app/)
 
 Links:
 React: https://reactjs.org/
